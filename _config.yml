@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://ovjhc.github.io
+title: Just a moment
+tagline: A log of time savers
+description: My awesome new site
+paginate: 5
