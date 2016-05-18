@@ -4,3 +4,5 @@ title: Kickoff
 layout: post
 ---
 This post kicks off the blog. That's all.
+
+Well, not quite, I created this blog using https://tinypress.co/
