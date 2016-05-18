@@ -5,4 +5,4 @@ layout: post
 ---
 This post kicks off the blog. That's all.
 
-Well, not quite, I created this blog using a [frontend](https://tinypress.co)
+Well, not quite, I created this blog using a [frontend](https://tinypress.co).
