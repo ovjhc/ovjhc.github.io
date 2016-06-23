@@ -11,10 +11,8 @@ git reset --hard origin/dev
 
 This leaves you out of sync with the upstream of branch test, so to resolve this you can do:
 
-git push origin dev --force
+git push origin test --force
 
 THIS WILL TOTALLY DELETE THE HISTORY OF THE UPSTREAM BRANCH
 
 As usual, --force indicates a destructive operation and should be used with caution
-
-
